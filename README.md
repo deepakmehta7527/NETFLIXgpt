@@ -95,3 +95,6 @@
 -   Hided it in .env file.
 -   PROBLEM: BILLING CYCLE NEEDED.
 -   FIXED: Payed $5 for API KEY.
+
+##Project Setup
+  - Before starting the project please add .env file and add TMDB and OPENAI KEY into it.
